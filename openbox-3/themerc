@@ -59,13 +59,13 @@ window.active.button.disabled.bg.color: #260C00
 #window.active.button.disabled.bg.border.color: #3d4c5a
 window.active.button.disabled.image.color: #611E00
 
-window.active.button.hover.bg: Solid Flat
+window.active.button.hover.bg: Flat Solid
 window.active.button.hover.bg.color: #333333
 #window.active.button.hover.bg.colorTo: #55799a
 #window.active.button.hover.bg.border.color: #3d4c5a
-window.active.button.hover.image.color: #ffffff
+window.active.button.hover.image.color: #CCCCCC
 
-window.active.button.toggled.unpressed.bg: Solid Flat
+window.active.button.toggled.unpressed.bg: Flat Solid
 window.active.button.toggled.unpressed.bg.color: #000000
 #window.active.button.toggled.unpressed.bg.colorTo: #55799a
 #window.active.button.toggled.unpressed.bg.border.color: #3d4c5a
@@ -77,7 +77,7 @@ window.active.button.toggled.unpressed.image.color: #FFFFFF
 #window.active.button.toggled.pressed.bg.border.color: #3d4c5a
 #window.active.button.toggled.pressed.image.color: #ffffff
 
-window.active.button.toggled.hover.bg: Solid Flat
+window.active.button.toggled.hover.bg: Flat Solid
 window.active.button.toggled.hover.bg.color: #333333
 #window.active.button.toggled.hover.bg.colorTo: #55799a
 #window.active.button.toggled.hover.bg.border.color: #3d4c5a
